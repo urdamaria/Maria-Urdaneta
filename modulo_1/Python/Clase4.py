@@ -32,3 +32,4 @@ for clave, valor in diccionario_cap.items():
     print(f"\nLa capital de {clave}, es {valor}")
 
 """
+
