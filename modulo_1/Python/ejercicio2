@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Tarea 2</title>
+</head>
+<body>
+    <h2>Mis sitios favoritos</h2>
+    <ul>Mis favoritos</ul>
+    <li><a href="https://www.instagram.com/">Instagram</a></li> 
+    <li><a href="https://www.facebook.com/?locale=es_LA">Facebook</a></li>
+    <li><a href="https://www.youtube.com/?app=desktop&hl=es">YouTube</a></li> 
+   
+</body>
+</html>
