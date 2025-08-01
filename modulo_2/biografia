@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <link rel="stylesheet" href="bio.css">
+</head>
+<body>
+    <header>
+        <h1>Maria Urdaneta</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Sobre mi</h2>
+            <img src="" alt="Yo">
+        </section>
+        <section>
+            <h2>Mis Hobbies</h2>
+            <ul>Son:</ul>
+            <li>Ver series.</li>
+            <li>Escuchar musica.</li>
+            <li>Leer.</li>
+        </section>
+    </main>
+    <footer>
+        <a href="https://www.instagram.com/manlesup/"><img src="media/imagen/instagram.webp" alt="Instagram"></a>
+    </footer>
+</body>
+</html>
