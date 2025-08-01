@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Menu</title>
+</head>
+<body>
+     <nav>
+        <ul>Lista</ul>
+        <li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada"></a>Pagina 1</li>
+        <li><a href="https://weverse.io/?hl=es"></a>Pagina 2</li>
+        <li><a href="https://store.steampowered.com/?l=spanish"></a>Pagina 3</li>
+     </nav>
+</body>
+</html>

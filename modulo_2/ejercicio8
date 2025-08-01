@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio 8</title>
+</head>
+<body>
+    <header>
+        <h1>Mi Blog.</h1>
+    </header>
+    <main>
+        <p>blogsito</p>
+    </main>
+    <footer>
+        <p>Copyright © 2025</p>
+    </footer>
+</body>
+</html>
