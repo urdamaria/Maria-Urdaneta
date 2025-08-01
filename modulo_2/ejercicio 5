@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <link rel="stylesheet" href="estilo5.css">
+</head>
+<body>
+    <h1>Clase</h1>
+    <p class="destacado">El sol se zambulló en el horizonte, tiñendo el cielo de naranjas y púrpuras..</p>
+    <p>El sol se zambulló en el horizonte, tiñendo el cielo de naranjas y púrpuras.</p>
+    <p id="resumen">El sol se zambulló en el horizonte, tiñendo el cielo de naranjas y púrpuras.</p>
+
+</body>
+</html>

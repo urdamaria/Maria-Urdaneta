@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Mi primer hoja de estilo</title>
+    <link rel="stylesheet" href="estilo4.css">
+</head>
+<body>
+    <h1>hoja de estilo</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure amet quasi sed ducimus est delectus distinctio cumque, voluptates ex cupiditate? Non, doloremque distinctio fugiat impedit provident quasi magni aspernatur nihil?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium molestiae quisquam laboriosam maxime! Nulla asperiores facere cumque placeat adipisci! Ea cupiditate assumenda, cum numquam aut nostrum eum! Iure, porro recusandae!</p>
+</body>
+</html>

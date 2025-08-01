@@ -1,0 +1,14 @@
+:root {
+    --primercolor: #ffc8dd;
+    --texto: #450920;
+}
+
+body {
+    background-color:var(--primercolor) ;
+}
+h1 {
+    color:var(--texto);
+}
+p {
+    font-size: 18px;
+}

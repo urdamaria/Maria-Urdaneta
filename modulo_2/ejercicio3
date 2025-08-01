@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Mi animal favorito</title>
+</head>
+<body>
+    <h1>Mi animal favorito</h1>
+    <img src="media/imagen/gato.webp" alt="Gatos">
+</body>
+</html>

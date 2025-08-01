@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>
+<body>
+    <div class="tarjeta">
+        <img src="media/imagen/BTS.webp" alt="BTS">
+        <h2>BTS</h2>
+        <p>BTS, acrónimo de Bangtan Sonyeondan (방탄소년단) o Bangtan Boys, es un grupo surcoreano de siete miembros formado en 2013 por Big Hit Entertainment. El grupo está compuesto por Jin, Suga, J-Hope, RM, Jimin, V y Jungkook. Son conocidos por su música que fusiona géneros como el pop, hip hop y EDM, y por su conexión con los fans a través de las redes sociales. </p>
+    </div>
+</body>
+</html>

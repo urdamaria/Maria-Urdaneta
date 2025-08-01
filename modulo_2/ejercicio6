@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio6</title>
+</head>
+<body>
+    <div class="caja">
+        <h2>Cajita</h2>
+        <p>Una Cajita</p>
+    </div>
+</body>
+</html>
